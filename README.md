@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-imchetanyadav@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:imchetanyadav@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-imchetanyadav-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imchetanyadav/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@im_chetanyadav-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=im_chetanyadav "Follow on Twitter")
+[![Twitter Badge](https://img.shields.io/badge/-@im_chetanyadav-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/im_chetanyadav "Follow on Twitter")
 [![Medium Badge](https://img.shields.io/badge/-@imchetanyadav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://imchetanyadav.medium.com/)](https://imchetanyadav.medium.com/)
 
 I am self - directed, motivated and a passionate person who would like to work on varied technology stack with passionate & experienced people and on products that shape consumer lives either directly or by better enabling other businesses to do the same. 
